@@ -8,6 +8,12 @@ import androidx.room.Query;
 
 import java.util.List;
 
+/*
+ * Nama : M Izzudin Wijaya
+ * Nim : 10117152
+ * Waktu : 1 Mei 2020, 13.44 WIB
+ * */
+
 @Dao
 public interface AktivisDao {
     @Insert

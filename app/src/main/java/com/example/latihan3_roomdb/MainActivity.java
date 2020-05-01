@@ -7,6 +7,12 @@ import android.util.Log;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+* Nama : M Izzudin Wijaya
+* Nim : 10117152
+* Waktu : 1 Mei 2020, 13.30 WIB
+* */
+
 public class MainActivity extends AppCompatActivity {
 
     private AktivisEntity aktivisEntity;

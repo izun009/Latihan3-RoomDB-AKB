@@ -4,6 +4,12 @@ import androidx.room.ColumnInfo;
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
 
+/*
+ * Nama : M Izzudin Wijaya
+ * Nim : 10117152
+ * Waktu : 1 Mei 2020, 13.50 WIB
+ * */
+
 @Entity
 public class AktivisEntity {
     @PrimaryKey(autoGenerate = true)
